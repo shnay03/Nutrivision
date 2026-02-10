@@ -1,0 +1,8 @@
+streamlit==1.52.1
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+tensorflow==2.19.0
+mediapipe==0.10.21
+torch==2.5.1
+torchvision==0.20.1
+pillow==11.1.0
